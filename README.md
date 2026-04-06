@@ -17,7 +17,7 @@ Backend-focused Fullstack Developer
 ## 🔥 Featured Projects
 - SaaS Analytics Dashboard (FastAPI + Next.js)
 - E-commerce Backend (FastAPI, PostgreSQL)
-- RAG Assistant (LLM + FastAPI)
+- Flowforge-backend (FastAPI, PostgreSQL)
 
 ## 📫 Contact
 - Email: saiduzzamanzishan44@gmail.com
